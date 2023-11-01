@@ -27,7 +27,7 @@ Before using or contributing to this project, ensure you have the following prer
 
 1. Clone this repository to your local machine:
 
-```git clone https://github.com/Ansh1999/Covid-Face-Mask-Detection.git```
+   ```git clone https://github.com/Ansh1999/Covid-Face-Mask-Detection.git```
 
 2. Install the required Python packages:
 
@@ -47,15 +47,15 @@ Before using or contributing to this project, ensure you have the following prer
 
 ## Customization
 
-You can customize this project in several ways:
+   You can customize this project in several ways:
 
-*Train the MobileNetV2 model on your own dataset for improved accuracy.
+* Train the MobileNetV2 model on your own dataset for improved accuracy.
 
-*Adjust the model's confidence threshold to control the detection sensitivity.
+* Adjust the model's confidence threshold to control the detection sensitivity.
 
-*Modify the Haar Cascade classifier for specific face detection requirements.
+* Modify the Haar Cascade classifier for specific face detection requirements.
 
-*Integrate this project into other applications, such as access control systems or COVID-19 safety monitoring tools.
+* Integrate this project into other applications, such as access control systems or COVID-19 safety monitoring tools.
 
 
 
